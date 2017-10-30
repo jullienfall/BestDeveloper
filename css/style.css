@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+header {
+    height: 100vh;
+    width: 100%;
+    background-image: url(../img/man-1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#developer {
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-family: Verdana;
+    padding: 2em;
+    text-transform: uppercase;
+} 
+#developer h1 {
+    font-size: 1.5em;
+}
+#developer h2 {
+    font-size: 2em;
+}
